@@ -52,7 +52,6 @@
     "framer-motion": "^12.23.12",
     "genkit": "^1.8.0",
     "googleapis": "^150.0.1",
-    "lexteam-editor": "^7.0.3",
     "lucide-react": "^0.475.0",
     "mammoth": "^1.9.1",
     "next": "15.2.3",
