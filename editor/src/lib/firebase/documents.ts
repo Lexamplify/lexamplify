@@ -1,4 +1,4 @@
-import { adminDb } from '../../../lib/firebase/config';
+/* import { adminDb } from '../../../lib/firebase/config';
 import { FieldValue } from 'firebase-admin/firestore';
 
 if (!adminDb) {
@@ -43,3 +43,4 @@ export async function getDocument(uid: string, fileId: string) {
     throw new Error(`Failed to get document: ${error instanceof Error ? error.message : String(error)}`);
   }
 }
+ */
