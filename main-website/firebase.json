@@ -1,0 +1,22 @@
+{
+  "functions": {
+    "source": "functions"
+  },
+  "hosting": [
+    {
+      "target": "landing",
+      "public": "out",
+      "ignore": ["firebase.json","**/.*","**/node_modules/**"],
+      "rewrites": [
+        {
+          "source": "/products/**",
+          "function": "productsProxy"
+        },
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}

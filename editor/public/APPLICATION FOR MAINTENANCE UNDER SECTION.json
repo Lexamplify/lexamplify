@@ -1,0 +1,1623 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "heading",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left", "level": 1 },
+      "content": [
+        {
+          "type": "text",
+          "text": "APPLICATION FOR MAINTENANCE UNDER SECTION 125 OF CRPC, 1973"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [{ "type": "bold" }],
+          "text": "IN THE COURT OF PRINCIPAL JUDGE, FAMILY COURT, KORBA."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "                                  "
+        },
+        {
+          "type": "text",
+          "marks": [{ "type": "bold" }],
+          "text": "MAINTENANCE APPLICATION NO. "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "marks": [{ "type": "bold" }], "text": "OF " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": "   "
+        },
+        { "type": "text", "marks": [{ "type": "bold" }], "text": "2017" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "center" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [{ "type": "text", "text": "IN THE MATTER OF:" }]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "        "
+        },
+        { "type": "text", "text": "1.Smt. X" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "                            "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "W/o" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "Z." },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "                  "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "R/o" },
+        { "type": "text", "marks": [{ "type": "underline" }], "text": " " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "                       "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [{ "type": "text", "text": "2.Master R" }]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "S/o" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "Z " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "                 "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "R/o " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "                    "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        {
+          "type": "text",
+          "text": "through his mother and natural guardian Smt X "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "                                      "
+        },
+        { "type": "text", "text": "APPLICANTS" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "center" },
+      "content": [{ "type": "text", "text": "VERSUS" }]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "Z " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "        "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "        "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "S/o" },
+        { "type": "text", "marks": [{ "type": "underline" }], "text": " " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "            "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "        "
+        },
+        { "type": "text", "text": "R/o" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "                                                                                                               "
+        },
+        { "type": "text", "text": "RESPONDENT" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left", "level": 1 },
+      "content": [
+        {
+          "type": "text",
+          "text": "APPLICATION UNDER SECTION 125 OF THE CODE OF"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "center" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" },
+            { "type": "underline" }
+          ],
+          "text": " "
+        },
+        {
+          "type": "text",
+          "marks": [{ "type": "bold" }, { "type": "underline" }],
+          "text": "CRIMINAL PROCEDURE, 1973"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [{ "type": "text", "text": "Most Respectfully Showeth:" }]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "1."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Applicant No. 1 is the legally wedded wife of the Respondent while Applicant No. 2 is the legitimate son of the Respondent."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Applicant No.1 was married to the Respondent according to the Hindu Rites and ceremonies on"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "   "
+        },
+        {
+          "type": "text",
+          "text": "(date) at Korba and the Applicant No. 2 was born out of"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "their wedlock on " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": ". The Applicant No. 2 is staying with Applicant No. 1 at present."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That Applicant No. 1 and Respondent stayed together after their marriage and for the last two years preceeding"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": ", they were staying at Korba." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "4."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        { "type": "text", "text": "That" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "sometime" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "during" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "the period June-July," },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "           "
+        },
+        { "type": "text", "text": ", the matrimonial life of the" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "text": "Applicant No. 1 and the Respondent got disturbed on account of the illegitimate affair of the Respondent with a girl named Mrs. A. The Applicant No. 1 made best possible efforts to persuade the Respondent to desist from indulging in an affair outside their wedlock. However, the same had no effect on the Respondent. Rather, the behavior of the Respondent towards Applicant"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "No." },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "1" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "became" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "rude," },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "cruel" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "and" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "oppressive," },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "and" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "finally" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "on" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "  "
+        },
+        {
+          "type": "text",
+          "text": ", the Respondent compelled the Applicant No. 1 to leave the home along with Applicant No. 2, since then, the Applicants are staying with Applicant No. 1’s father."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [{ "type": "hardBreak" }]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "5."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Applicant No.1 has made repeated attempts to join the Respondent in the matrimonial home. However, the Respondent has refused to take back the Applicants and has clearly informed Applicant No. 1 that he was planning to marry Mrs. A though the same is"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        {
+          "type": "text",
+          "text": "not permissible under law. As such, the Respondent has deserted the Applicants without any reasonable cause."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "6."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Respondent is liable to maintain the Applicants who have repeatedly requested the Respondent to provide them the appropriate maintenance. However, the Respondent has not only refused/neglected to maintain the Applicants, but has also refused to even part with/return the articles belonging to Applicant No. 1 towards the wedding gifts and Stridhan which are lying at the Respondent’s house."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "7."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Respondent is a man of status and is working as a Wing Commander in Indian Air Force. He is getting monthly emoluments of about Rs."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "     "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "per month and has sufficient means to maintain himself and the applicants. He has no encumbrances or liabilities except that of maintenance of the applicants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "normal", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "8."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Applicant No. 1 is a homemaker and has no independent source of livelihood and thus is unable to maintain herself. She is staying with her father at Korba and as such both the Applicants are dependant upon him."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "9."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "                   "
+        },
+        {
+          "type": "text",
+          "text": "That the Applicant No. 2 is a minor and is also staying with the Applicant No. 1. He is studying in Delhi Public School, Korba, and his monthly expenditure including school fees, dresses etc. is more than Rs."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "which" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "is presently being borne by her father." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "10."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "               "
+        },
+        {
+          "type": "text",
+          "text": "That the Applicants are residing at Korba. This Hon’ble Court therefore is competent to entertain and try this petition."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "bold" }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        { "type": "text", "marks": [{ "type": "bold" }], "text": "PRAYER:" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "text": "It is, therefore, most respectfully prayed that the orders for maintenance in favour of the Applicants and against the Respondent be passed directing the Respondent to pay the monthly"
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "allowance of Rs." },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "towards the" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "maintenance of" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "the Applicant" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "No." },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "1" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "and" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "   "
+        },
+        { "type": "text", "text": "Rs" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "  "
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            },
+            { "type": "underline" }
+          ],
+          "text": " "
+        },
+        {
+          "type": "text",
+          "text": "towards the maintenance of the Applicant No. 2. The costs of these proceedings be also awarded to the applicants."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "         "
+        },
+        { "type": "text", "text": "Place: Korba " },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "                                                                                             "
+        },
+        { "type": "text", "text": "Applicants" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        { "type": "text", "text": "Date:" },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "                                       "
+        },
+        { "type": "text", "text": "Advocate on behalf of the Applicants" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "149%", "textAlign": "left" },
+      "content": [
+        { "type": "text", "text": "List of witnesses– 1." },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "Arial, sans-serif",
+                "color": "",
+                "fontSize": ""
+              }
+            }
+          ],
+          "text": " "
+        },
+        { "type": "text", "text": "Applicant No. 1;" }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "2."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "  "
+        },
+        { "type": "text", "text": "Father of Applicant No.1." }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": "3."
+        },
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": {
+                "fontFamily": "\"Times New Roman\"",
+                "color": "",
+                "fontSize": "7pt"
+              }
+            }
+          ],
+          "text": "  "
+        },
+        {
+          "type": "text",
+          "text": "Any other witness, if needed, as per the facts of the case"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "1.5", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        },
+        { "type": "text", "text": "(" },
+        {
+          "type": "text",
+          "marks": [
+            { "type": "bold" },
+            { "type": "italic" },
+            { "type": "underline" }
+          ],
+          "text": "Note "
+        },
+        {
+          "type": "text",
+          "text": ":- An affidavit is to be attached to this petition)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "attrs": { "lineHeight": "107%", "textAlign": "left" },
+      "content": [
+        {
+          "type": "text",
+          "marks": [
+            {
+              "type": "textStyle",
+              "attrs": { "fontFamily": "", "color": "", "fontSize": "" }
+            }
+          ],
+          "text": " "
+        }
+      ]
+    }
+  ]
+}

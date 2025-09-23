@@ -1,11 +1,22 @@
 {
-  "version": 2,
-  "builds": [
-    { "src": "google-docs/package.json", "use": "@vercel/next" },
-    { "src": "studio-draft-implementation/package.json", "use": "@vercel/next" }
+  "rewrites": [
+    {
+      "source": "/editor/(.*)",
+      "destination": "/editor/$1"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/main-website/$1"
+    }
   ],
-  "routes": [
-    { "src": "/editor/(.*)", "dest": "/google-docs/$1" },
-    { "src": "/(.*)", "dest": "/studio-draft-implementation/$1" }
+  "builds": [
+    {
+      "src": "main-website/package.json",
+      "use": "@vercel/next"
+    },
+    {
+      "src": "editor/package.json",
+      "use": "@vercel/next"
+    }
   ]
 }
