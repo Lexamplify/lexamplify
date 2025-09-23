@@ -2,20 +2,20 @@
     "rewrites": [
       {
         "source": "/editor/(.*)",
-        "destination": "/editor/$1"
+        "destination": "/google-docs/$1"
       },
       {
         "source": "/(.*)",
-        "destination": "/main-website/$1"
+        "destination": "/studio-draft-implementation/$1"
       }
     ],
     "builds": [
       {
-        "src": "main-website/package.json",
+        "src": "google-docs/package.json",
         "use": "@vercel/node"
       },
       {
-        "src": "editor/package.json",
+        "src": "studio-draft-implementation/package.json",
         "use": "@vercel/node"
       }
     ]
