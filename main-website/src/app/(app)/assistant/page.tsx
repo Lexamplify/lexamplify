@@ -24,7 +24,7 @@ export default function AssistantPage() {
   };
 
   const handleWorkflowTrigger = (workflow: string, prompt: string) => {
-    // Trigger the workflow by setting the query
+    // Trigger he workflow by setting the query
     setTriggerQuery(prompt);
     // Reset after a brief moment to allow the chat interface to pick it up
     setTimeout(() => setTriggerQuery(""), 100);
