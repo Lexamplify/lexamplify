@@ -18,7 +18,6 @@ import { useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
 import { useState, useEffect } from "react";
 import { toast } from "sonner";
-import { useUser } from "@clerk/nextjs";
 import { ImportDocument } from "@/components/import-document";
 import { processTemplateContentForConvex } from "@/lib/template-processor";
 import { TemplateSearchService, SearchResult } from "@/lib/template-search-service";
@@ -40,9 +39,8 @@ function debounce<T extends (...args: any[]) => any>(
 
 export const TemplatesGallery = () => {
   const router = useRouter();
+  const create = useMutation(api.documents.create);
   const [isCreating, setIsCreating] = useState(false);
-  const { user } = useUser();
-  const userId = user?.id;
   
   // Search state
   const [searchQuery, setSearchQuery] = useState("");
@@ -80,38 +78,27 @@ export const TemplatesGallery = () => {
     initialContent: string | object;
     queries?: string[];
   }) => {
-    if (!userId) {
-      toast.error("Please sign in to create documents");
-      return;
-    }
-
     setIsCreating(true);
     
     try {
-      // Create document in Firebase
-      const response = await fetch('/api/documents', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          fileName: template.label,
-          templateType: template.id
-        }),
+      // Process the template content to handle JSON format for Convex storage
+      const processedContent = processTemplateContentForConvex(
+        typeof template.initialContent === 'string' ? template.initialContent : JSON.stringify(template.initialContent)
+      );
+      
+      // Ensure we always pass a string to Convex
+      const contentForConvex = typeof processedContent === 'string' ? processedContent : JSON.stringify(processedContent);
+      
+      const documentId = await create({ 
+        title: template.label, 
+        initialContent: contentForConvex 
       });
-
-      if (!response.ok) {
-        const error = await response.json();
-        throw new Error(error.error || 'Failed to create document');
-      }
-
-      const { fileId } = await response.json();
       
       toast.success("Document created");
-      router.push(`/documents/${fileId}`);
-    } catch (error: any) {
+      router.push(`documents/${documentId}`);
+    } catch (error) {
       console.error("Error creating document:", error);
-      toast.error(error?.message || "Something went wrong");
+      toast.error("Something went wrong");
     } finally {
       setIsCreating(false);
     }
@@ -124,11 +111,6 @@ export const TemplatesGallery = () => {
     initialContent: string | object;
     queries?: string[];
   }, answers: Record<string, string>) => {
-    if (!userId) {
-      toast.error("Please sign in to create documents");
-      return;
-    }
-
     setIsCustomizing(true);
     
     try {
@@ -146,29 +128,19 @@ export const TemplatesGallery = () => {
         throw new Error(customizationResult.error || 'Failed to customize template');
       }
 
-      // Create document in Firebase
-      const response = await fetch('/api/documents', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          fileName: `${template.label} (Customized)`,
-          templateType: template.id,
-          // You might want to store the customized content as well
-          // customContent: customizationResult.customizedContent
-        }),
+      // Process the customized content
+      const processedContent = processTemplateContentForConvex(
+        typeof customizationResult.customizedContent === 'string' ? customizationResult.customizedContent : JSON.stringify(customizationResult.customizedContent)
+      );
+      const contentForConvex = typeof processedContent === 'string' ? processedContent : JSON.stringify(processedContent);
+      
+      const documentId = await create({ 
+        title: `${template.label} (Customized)`, 
+        initialContent: contentForConvex 
       });
-
-      if (!response.ok) {
-        const error = await response.json();
-        throw new Error(error.error || 'Failed to create document');
-      }
-
-      const { fileId } = await response.json();
       
       toast.success("Customized document created");
-      router.push(`/documents/${fileId}`);
+      router.push(`documents/${documentId}`);
     } catch (error) {
       console.error("Error customizing template:", error);
       toast.error("Failed to customize template. Please try again.");
