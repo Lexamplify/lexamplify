@@ -11,6 +11,10 @@
   ],
   "routes": [
     {
+      "src": "/editor/_next/static/(.*)",
+      "dest": "/editor/_next/static/$1"
+    },
+    {
       "src": "/editor/_next/(.*)",
       "dest": "/editor/_next/$1"
     },
