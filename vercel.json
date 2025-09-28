@@ -11,6 +11,10 @@
   ],
   "routes": [
     {
+      "src": "/editortrail/(.*)",
+      "dest": "/editor/$1"
+    },
+    {
       "src": "/editor/(.*)",
       "dest": "/editor/$1"
     },
