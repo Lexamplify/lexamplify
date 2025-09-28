@@ -19,10 +19,6 @@
       "dest": "/editor/_next/$1"
     },
     {
-      "src": "/editor/api/(.*)",
-      "dest": "/editor/api/$1"
-    },
-    {
       "src": "/editor/(.*)",
       "dest": "/editor/$1"
     },

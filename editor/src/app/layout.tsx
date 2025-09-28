@@ -8,7 +8,6 @@ import "./globals.css";
 
 import { Toaster } from "@/components/ui/sonner";
 import { ConvexClientProvider } from "@/components/convex-client-provider";
-import ErrorBoundary from "@/components/error-boundary";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -30,9 +29,7 @@ export default function RootLayout({
         <ConvexClientProvider>
           <NuqsAdapter>
             <Toaster />
-            <ErrorBoundary>
-              {children}
-            </ErrorBoundary>
+            {children}
           </NuqsAdapter>
         </ConvexClientProvider>
       </body>

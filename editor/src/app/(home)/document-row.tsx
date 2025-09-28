@@ -18,7 +18,7 @@ export const DocumentRow = ({ document }: DocumentRowProps) => {
 
   const handleClick = () => {
     setIsLoading(true);
-    router.push(`/documents/${document._id}`);
+    router.push(`editor/documents/${document._id}`);
   };
 
   return (
@@ -58,7 +58,7 @@ export const DocumentRow = ({ document }: DocumentRowProps) => {
         <DocumentMenu
           documentId={document._id}
           title={document.title}
-          onNewTab={() => window.open(`/documents/${document._id}`, "_blank")}
+          onNewTab={() => window.open(`editor/documents/${document._id}`, "_blank")}
         />
       </TableCell>
     </TableRow>
