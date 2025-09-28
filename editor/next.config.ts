@@ -1,6 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  basePath: "/editor",
   typescript: {
     ignoreBuildErrors: true,
   },

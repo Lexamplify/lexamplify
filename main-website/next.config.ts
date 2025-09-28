@@ -42,28 +42,6 @@ const nextConfig: NextConfig = {
         ],
       },
       {
-        // Headers for editor routes
-        source: '/editor/:path*',
-        headers: [
-          {
-            key: 'X-Frame-Options',
-            value: 'SAMEORIGIN',
-          },
-          {
-            key: 'Access-Control-Allow-Origin',
-            value: '*',
-          },
-          {
-            key: 'Access-Control-Allow-Methods',
-            value: 'GET, POST, PUT, DELETE, OPTIONS',
-          },
-          {
-            key: 'Access-Control-Allow-Headers',
-            value: 'Content-Type, Authorization',
-          },
-        ],
-      },
-      {
         // Allow iframe embedding for all pages that might contain iframes
         source: '/(.*)',
         headers: [
