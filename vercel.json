@@ -1,14 +1,4 @@
 {
-  "rewrites": [
-    {
-      "source": "/editor/(.*)",
-      "destination": "/editor/$1"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/main-website/$1"
-    }
-  ],
   "builds": [
     {
       "src": "main-website/package.json",
@@ -17,6 +7,16 @@
     {
       "src": "editor/package.json",
       "use": "@vercel/next"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/editor/(.*)",
+      "dest": "/editor/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/main-website/$1"
     }
   ]
 }
