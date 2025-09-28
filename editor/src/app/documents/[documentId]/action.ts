@@ -8,23 +8,38 @@ import { api } from "../../../../convex/_generated/api";
 const convex = new ConvexHttpClient(process.env.NEXT_PUBLIC_CONVEX_URL!);
 
 export async function getDocuments(ids: Id<"documents">[]) {
-  return await convex.query(api.documents.getByIds, { ids });
+  try {
+    return await convex.query(api.documents.getByIds, { ids });
+  } catch (error) {
+    console.error('Error fetching documents:', error);
+    return [];
+  }
 }
 
 export async function getUsers() {
-  const { sessionClaims } = await auth();
-  const clerk = await clerkClient();
+  try {
+    const { sessionClaims } = await auth();
+    
+    if (!sessionClaims?.org_id) {
+      console.warn('No organization ID found in session claims');
+      return [];
+    }
 
-  const response = await clerk.users.getUserList({
-    organizationId: [sessionClaims?.org_id as string],
-  });
+    const clerk = await clerkClient();
+    const response = await clerk.users.getUserList({
+      organizationId: [sessionClaims.org_id as string],
+    });
 
-  const users = response.data.map((user) => ({
-    id: user.id,
-    name: user.fullName ?? user.primaryEmailAddress?.emailAddress ?? "Anonymous",
-    avatar: user.imageUrl,
-    color: "",
-  }));
+    const users = response.data.map((user) => ({
+      id: user.id,
+      name: user.fullName ?? user.primaryEmailAddress?.emailAddress ?? "Anonymous",
+      avatar: user.imageUrl,
+      color: "",
+    }));
 
-  return users;
+    return users;
+  } catch (error) {
+    console.error('Error fetching users:', error);
+    return [];
+  }
 }

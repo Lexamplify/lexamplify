@@ -8,7 +8,7 @@ import "./globals.css";
 
 import { Toaster } from "@/components/ui/sonner";
 import { ConvexClientProvider } from "@/components/convex-client-provider";
-import { MainWebsiteAuthNotification } from "@/components/main-website-auth-notification";
+import ErrorBoundary from "@/components/error-boundary";
 
 const inter = Inter({
   subsets: ["latin"],
@@ -30,8 +30,9 @@ export default function RootLayout({
         <ConvexClientProvider>
           <NuqsAdapter>
             <Toaster />
-            <MainWebsiteAuthNotification />
-            {children}
+            <ErrorBoundary>
+              {children}
+            </ErrorBoundary>
           </NuqsAdapter>
         </ConvexClientProvider>
       </body>

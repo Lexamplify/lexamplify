@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  assetPrefix: process.env.VERCEL_URL ? '/editor' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/editor' : '',
   typescript: {
     ignoreBuildErrors: true,
   },
