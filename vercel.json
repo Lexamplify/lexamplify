@@ -9,11 +9,7 @@
       "use": "@vercel/next"
     }
   ],
-  "functions": {
-    "editor/convex/**/*.ts": {
-      "runtime": "convex"
-    }
-  },
+
   "routes": [
     {
       "src": "/editor/_next/static/(.*)",
